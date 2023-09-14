@@ -81,7 +81,7 @@ def makesqltab(list1,list2):
   mydb = mysql.connector.connect(
     host="localhost",
     user="shashank",
-    password="Suj@2305",
+    password="aaaa",
     database="mydatabase",
     charset = "utf8"
   )
