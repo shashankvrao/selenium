@@ -178,7 +178,7 @@ def getsqltab():
   mydb = mysql.connector.connect(
     host="localhost",
     user="shashank",
-    password="Suj@2305",
+    password="",
     database="mydatabase",
     charset="utf8"
   )
